@@ -1,16 +1,34 @@
-## Hi there 👋
 
-<!--
-**shahashish17/shahashish17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi 👋 I'm Ashish
 
-Here are some ideas to get you started:
+💻 Software Developer
+🤖 Interested in AI Agents, Blockchain & Backend
+🚀 Building tools for intelligent automation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚙️ Tech Stack
+
+* Languages: Python, JavaScript
+* Backend: Node.js, FastAPI
+* AI: LangChain, RAG
+* Cloud: Docker, Supabase
+* Blockchain: Solidity, Web3
+
+ ## 🚀 Featured Projects
+
+### 🔗 Blockchain Agent Wallet
+
+Smart contract wallet designed for AI agents.
+
+## 🌍 Open Source
+
+* Contributed to AI developer tools
+* Fixed bugs in open-source libraries
+* Added documentation improvements
+
+
+## 📫 Connect With Me
+
+LinkedIn: https://www.linkedin.com/in/shahashish17/
+Twitter: https://x.com/shahashish_17
+Email: ashish1707shah@gmail.com
+
