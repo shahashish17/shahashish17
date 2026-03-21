@@ -11,7 +11,6 @@
 * Backend: Node.js, FastAPI
 * AI: LangChain, RAG
 * Cloud: Docker, Supabase
-* Blockchain: Solidity, Web3
 
  ## 🚀 Featured Projects
 
